@@ -477,7 +477,6 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
   line-height: 2;
   letter-spacing: 0.04em;
   color: #fff;
-  padding: 8px 16px;
   background-color: transparent;
 }
 .footer-form-input::placeholder {
